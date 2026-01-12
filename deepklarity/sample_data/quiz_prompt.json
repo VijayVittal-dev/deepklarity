@@ -1,0 +1,21 @@
+{
+  "description": "Prompt used to generate quizzes from Wikipedia content",
+  "output_format": {
+    "summary": "string",
+    "key_entities": {
+      "people": [],
+      "organizations": [],
+      "locations": []
+    },
+    "quiz": [
+      {
+        "question": "string",
+        "options": ["string", "string", "string", "string"],
+        "answer": "string",
+        "difficulty": "easy | medium | hard",
+        "explanation": "string"
+      }
+    ],
+    "related_topics": []
+  }
+}

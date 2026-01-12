@@ -1,0 +1,23 @@
+{
+  "title": "Alan Turing",
+  "summary": "Alan Turing was a pioneering mathematician and computer scientist who laid the foundations of artificial intelligence.",
+  "key_entities": {
+    "people": ["Alan Turing"],
+    "organizations": ["Bletchley Park"],
+    "locations": ["United Kingdom"]
+  },
+  "quiz": [
+    {
+      "question": "Who is considered the father of computer science?",
+      "options": [
+        "Alan Turing",
+        "Charles Babbage",
+        "John von Neumann",
+        "Bill Gates"
+      ],
+      "answer": "Alan Turing",
+      "difficulty": "easy",
+      "explanation": "Alan Turing introduced the concept of the Turing Machine."
+    }
+  ]
+}
